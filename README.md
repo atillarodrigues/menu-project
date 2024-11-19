@@ -1,7 +1,7 @@
 
 # **Menu Interativo com Carrinho de Compras**
 
-Este é um projeto simples em JavaScript para criar um menu interativo que permite visualizar itens disponíveis e calcular o valor total do carrinho de compras. O menu utiliza funções como `map`, `reduce` e manipulação do DOM para exibir os itens dinamicamente.
+Este é um projeto  em JavaScript para criar um menu interativo que permite visualizar itens disponíveis e calcular o valor total do carrinho de compras. O menu utiliza funções como `map`, `reduce` e manipulação do DOM para exibir os itens dinamicamente.
 
 ## **Funcionalidades**
 
